@@ -1,0 +1,11 @@
+C:\Users\Daniel\workspace\csharp\exercises\dictionaries\bin\Debug\netcoreapp2.2\dictionaries.deps.json
+C:\Users\Daniel\workspace\csharp\exercises\dictionaries\bin\Debug\netcoreapp2.2\dictionaries.runtimeconfig.json
+C:\Users\Daniel\workspace\csharp\exercises\dictionaries\bin\Debug\netcoreapp2.2\dictionaries.runtimeconfig.dev.json
+C:\Users\Daniel\workspace\csharp\exercises\dictionaries\bin\Debug\netcoreapp2.2\dictionaries.dll
+C:\Users\Daniel\workspace\csharp\exercises\dictionaries\bin\Debug\netcoreapp2.2\dictionaries.pdb
+C:\Users\Daniel\workspace\csharp\exercises\dictionaries\obj\Debug\netcoreapp2.2\dictionaries.csprojAssemblyReference.cache
+C:\Users\Daniel\workspace\csharp\exercises\dictionaries\obj\Debug\netcoreapp2.2\dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\workspace\csharp\exercises\dictionaries\obj\Debug\netcoreapp2.2\dictionaries.AssemblyInfoInputs.cache
+C:\Users\Daniel\workspace\csharp\exercises\dictionaries\obj\Debug\netcoreapp2.2\dictionaries.AssemblyInfo.cs
+C:\Users\Daniel\workspace\csharp\exercises\dictionaries\obj\Debug\netcoreapp2.2\dictionaries.dll
+C:\Users\Daniel\workspace\csharp\exercises\dictionaries\obj\Debug\netcoreapp2.2\dictionaries.pdb
