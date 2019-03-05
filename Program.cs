@@ -71,7 +71,7 @@ namespace dictionaries
 
                 foreach (KeyValuePair<string, double> item in stockReport)
                 {
-                    Console.WriteLine($"{item.Key} {item.Value}");
+                    Console.WriteLine($"The position in {item.Key} is {item.Value}");
                 }
             
 
